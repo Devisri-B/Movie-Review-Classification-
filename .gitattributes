@@ -1,4 +1,3 @@
-*.ipynb linguist-document
-*.ipynb linguist-vendored
+*.ipynb linguist-language=Python
 *.py linguist-detectable=true
 *.php linguist-detectable=true
