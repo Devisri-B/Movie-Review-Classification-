@@ -1,0 +1,4 @@
+*.ipynb linguist-document
+*.ipynb linguist-vendored
+*.py linguist-detectable=true
+*.php linguist-detectable=true
